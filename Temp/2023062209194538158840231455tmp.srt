@@ -1,0 +1,16 @@
+1
+0 --> 3
+ Are you worried about your home security?
+
+2
+3 --> 7
+ Do you have to get up repeatedly to open the door of the houses?
+
+3
+7 --> 10
+ Our journey started from Fab 2021,
+
+4
+10 --> 13
+ by the idea of making solutions to automate
+

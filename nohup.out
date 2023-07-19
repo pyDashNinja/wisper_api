@@ -1,0 +1,273 @@
+[2023-06-06 09:00:02 +0200] [673617] [INFO] Starting gunicorn 20.1.0
+[2023-06-06 09:00:02 +0200] [673617] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-06 09:00:02 +0200] [673617] [ERROR] Retrying in 1 second.
+[2023-06-06 09:00:03 +0200] [673617] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-06 09:00:03 +0200] [673617] [ERROR] Retrying in 1 second.
+[2023-06-06 09:00:04 +0200] [673617] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-06 09:00:04 +0200] [673617] [ERROR] Retrying in 1 second.
+[2023-06-06 09:00:05 +0200] [673617] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-06 09:00:05 +0200] [673617] [ERROR] Retrying in 1 second.
+[2023-06-06 09:00:06 +0200] [673617] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-06 09:00:06 +0200] [673617] [ERROR] Retrying in 1 second.
+[2023-06-06 09:00:07 +0200] [673617] [ERROR] Can't connect to ('0.0.0.0', 3737)
+[2023-06-06 09:00:52 +0200] [673990] [INFO] Starting gunicorn 20.1.0
+[2023-06-06 09:00:52 +0200] [673990] [INFO] Listening at: http://0.0.0.0:3737 (673990)
+[2023-06-06 09:00:52 +0200] [673990] [INFO] Using worker: sync
+[2023-06-06 09:00:52 +0200] [673992] [INFO] Booting worker with pid: 673992
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 09:09:39 +0200] [673992] [INFO] Parent changed, shutting down: <Worker 673992>
+[2023-06-13 09:09:39 +0200] [673992] [INFO] Worker exiting (pid: 673992)
+ کہتے ہیں رات ساری بہت عرام سے گزری ہے مگر ایک لمحہ تھا کچھ ایسا کہ گزارا نہ گیا
+Model already loaded
+Model already loaded
+ Are you worried about your home security? Do you have to get up repeatedly to open the door of the houses? Our journey started from Fab 2021, by the idea of making solutions to automate
+Model already loaded
+ Are you worried about your home security? Do you have to get up repeatedly to open the door of the houses? Our journey started from Fab 2021, by the idea of making solutions to automate
+Model already loaded
+ Are you worried about your home security? Do you have to get up repeatedly to open the door of the houses? Our journey started from Fab 2021, by the idea of making solutions to automate
+Model already loaded
+ Are you worried about your home security? Do you have to get up repeatedly to open the door of the houses? Our journey started from Fab 2021, by the idea of making solutions to automate
+Model already loaded
+ This video is... 30 seconds long. What's that? It's 30 seconds long. We don't have time to get along Because it's 30 seconds long. You all have many things to do That's why I'm being short with you, so I've decided not to bore you By being 30 seconds long. Yes, this is 30 seconds long We don't have time to wear a thong, or smoke a bong, or pipe a bong It's true, no matter what I do, or what I wish to say to you It's all for naught, because you see the limitation set on me Of being 30 seconds long.
+Model already loaded
+ Are you worried about your home security? Do you have to get up repeatedly to open the door of the houses? Our journey started from Fab 2021, by the idea of making solutions to automate
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+Model already loaded
+ اچھا ایسان بھائی میں نے وہ اپلوڈ کر دیا ہے بلڈ تو اب وہ اپل اپروف کرے گا تو پھر آپ کا ایڈ ہم اس پہ سٹیپ سٹریکر پہ آجائے گا اس کو ابھی کل تک شاید وہ اپروف کر دی
+Model already loaded
+ ༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀༀ
+[2023-06-13 09:32:17 +0200] [813873] [INFO] Starting gunicorn 20.1.0
+[2023-06-13 09:32:17 +0200] [813873] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:32:17 +0200] [813873] [ERROR] Retrying in 1 second.
+[2023-06-13 09:32:18 +0200] [813873] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:32:18 +0200] [813873] [ERROR] Retrying in 1 second.
+[2023-06-13 09:32:19 +0200] [813873] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:32:19 +0200] [813873] [ERROR] Retrying in 1 second.
+[2023-06-13 09:32:20 +0200] [813873] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:32:20 +0200] [813873] [ERROR] Retrying in 1 second.
+[2023-06-13 09:32:21 +0200] [813873] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:32:21 +0200] [813873] [ERROR] Retrying in 1 second.
+[2023-06-13 09:32:22 +0200] [813873] [ERROR] Can't connect to ('0.0.0.0', 3737)
+[2023-06-13 09:32:56 +0200] [814028] [INFO] Starting gunicorn 20.1.0
+[2023-06-13 09:32:56 +0200] [814028] [INFO] Listening at: http://0.0.0.0:3737 (814028)
+[2023-06-13 09:32:56 +0200] [814028] [INFO] Using worker: sync
+[2023-06-13 09:32:56 +0200] [814030] [INFO] Booting worker with pid: 814030
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 09:33:21 +0200] [814030] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 182, in handle_request
+    resp.write_file(respiter)
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/http/wsgi.py", line 385, in write_file
+    if not self.sendfile(respiter):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/http/wsgi.py", line 375, in sendfile
+    self.sock.sendfile(respiter.filelike, count=nbytes)
+  File "/usr/lib/python3.10/socket.py", line 484, in sendfile
+    return self._sendfile_use_sendfile(file, offset, count)
+  File "/usr/lib/python3.10/socket.py", line 348, in _sendfile_use_sendfile
+    self._check_sendfile_params(file, offset, count)
+  File "/usr/lib/python3.10/socket.py", line 462, in _check_sendfile_params
+    raise ValueError(
+ValueError: count must be a positive integer (got 0)
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 09:33:53 +0200] [814030] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 182, in handle_request
+    resp.write_file(respiter)
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/http/wsgi.py", line 385, in write_file
+    if not self.sendfile(respiter):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/http/wsgi.py", line 375, in sendfile
+    self.sock.sendfile(respiter.filelike, count=nbytes)
+  File "/usr/lib/python3.10/socket.py", line 484, in sendfile
+    return self._sendfile_use_sendfile(file, offset, count)
+  File "/usr/lib/python3.10/socket.py", line 348, in _sendfile_use_sendfile
+    self._check_sendfile_params(file, offset, count)
+  File "/usr/lib/python3.10/socket.py", line 462, in _check_sendfile_params
+    raise ValueError(
+ValueError: count must be a positive integer (got 0)
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 09:35:11 +0200] [814030] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 182, in handle_request
+    resp.write_file(respiter)
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/http/wsgi.py", line 385, in write_file
+    if not self.sendfile(respiter):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/gunicorn/http/wsgi.py", line 375, in sendfile
+    self.sock.sendfile(respiter.filelike, count=nbytes)
+  File "/usr/lib/python3.10/socket.py", line 484, in sendfile
+    return self._sendfile_use_sendfile(file, offset, count)
+  File "/usr/lib/python3.10/socket.py", line 348, in _sendfile_use_sendfile
+    self._check_sendfile_params(file, offset, count)
+  File "/usr/lib/python3.10/socket.py", line 462, in _check_sendfile_params
+    raise ValueError(
+ValueError: count must be a positive integer (got 0)
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 09:55:41 +0200] [814595] [INFO] Starting gunicorn 20.1.0
+[2023-06-13 09:55:41 +0200] [814595] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:55:41 +0200] [814595] [ERROR] Retrying in 1 second.
+[2023-06-13 09:55:42 +0200] [814595] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:55:42 +0200] [814595] [ERROR] Retrying in 1 second.
+[2023-06-13 09:55:43 +0200] [814595] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:55:43 +0200] [814595] [ERROR] Retrying in 1 second.
+[2023-06-13 09:55:44 +0200] [814595] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:55:44 +0200] [814595] [ERROR] Retrying in 1 second.
+[2023-06-13 09:55:45 +0200] [814595] [ERROR] Connection in use: ('0.0.0.0', 3737)
+[2023-06-13 09:55:45 +0200] [814595] [ERROR] Retrying in 1 second.
+[2023-06-13 09:55:46 +0200] [814595] [ERROR] Can't connect to ('0.0.0.0', 3737)
+[2023-06-13 12:29:01 +0200] [816809] [INFO] Starting gunicorn 20.1.0
+[2023-06-13 12:29:01 +0200] [816809] [INFO] Listening at: http://0.0.0.0:3737 (816809)
+[2023-06-13 12:29:01 +0200] [816809] [INFO] Using worker: sync
+[2023-06-13 12:29:01 +0200] [816811] [INFO] Booting worker with pid: 816811
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 12:30:07 +0200] [816809] [INFO] Handling signal: hup
+[2023-06-13 12:30:07 +0200] [816809] [INFO] Hang up: Master
+[2023-06-13 12:30:07 +0200] [816884] [INFO] Booting worker with pid: 816884
+[2023-06-13 12:30:07 +0200] [816809] [WARNING] Worker with pid 816811 was terminated due to signal 1
+[2023-06-13 12:31:04,530] ERROR in app: Exception on /transcribe [POST]
+Traceback (most recent call last):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/Wisper/wisper.py", line 78, in transcribe
+    os.remove(f"./Temp/{randomnumber}tmp.srt")
+UnboundLocalError: local variable 'randomnumber' referenced before assignment
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 12:36:29,222] ERROR in app: Exception on /transcribe [POST]
+Traceback (most recent call last):
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/Wisper/venv/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/Wisper/wisper.py", line 78, in transcribe
+    os.remove(f"./Temp/{randomnumber}tmp.srt")
+UnboundLocalError: local variable 'randomnumber' referenced before assignment
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 12:39:08 +0200] [817687] [INFO] Starting gunicorn 20.1.0
+[2023-06-13 12:39:08 +0200] [817687] [INFO] Listening at: http://0.0.0.0:3737 (817687)
+[2023-06-13 12:39:08 +0200] [817687] [INFO] Using worker: sync
+[2023-06-13 12:39:08 +0200] [817689] [INFO] Booting worker with pid: 817689
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 13:15:10 +0200] [820327] [INFO] Starting gunicorn 20.1.0
+[2023-06-13 13:15:10 +0200] [820327] [INFO] Listening at: http://0.0.0.0:3737 (820327)
+[2023-06-13 13:15:10 +0200] [820327] [INFO] Using worker: sync
+[2023-06-13 13:15:10 +0200] [820329] [INFO] Booting worker with pid: 820329
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-06-13 13:17:18 +0200] [820327] [INFO] Handling signal: hup
+[2023-06-13 13:17:18 +0200] [820327] [INFO] Hang up: Master
+[2023-06-13 13:17:18 +0200] [820578] [INFO] Booting worker with pid: 820578
+[2023-06-13 13:17:18 +0200] [820327] [WARNING] Worker with pid 820329 was terminated due to signal 1
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/var/www/Wisper/venv/lib/python3.10/site-packages/whisper/transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2023-07-03 13:51:54 +0200] [92031] [INFO] Starting gunicorn 20.1.0
+[2023-07-03 13:51:54 +0200] [92031] [INFO] Listening at: http://0.0.0.0:3737 (92031)
+[2023-07-03 13:51:54 +0200] [92031] [INFO] Using worker: sync
+[2023-07-03 13:51:54 +0200] [92033] [INFO] Booting worker with pid: 92033
+[2023-07-03 13:52:47 +0200] [92031] [INFO] Handling signal: hup
+[2023-07-03 13:52:47 +0200] [92031] [INFO] Hang up: Master
+[2023-07-03 13:52:47 +0200] [92092] [INFO] Booting worker with pid: 92092
+[2023-07-03 13:52:47 +0200] [92031] [WARNING] Worker with pid 92033 was terminated due to signal 1
